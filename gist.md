@@ -23,9 +23,9 @@ The symbol ^ is an instance of an anchor. This marks the beginning of a string.
 ### Quantifiers
 Quantifiers specify (or quantify) the minimum number of a character that must be present in a string in order for it to match the regex.
 ### Grouping Constructs
-
+Using grouping constructs, a regex query can return a number of subsets of data that are related to one another.
 ### Bracket Expressions
-
+A bracket expression uses regex to simply search everything included in the brackets. Every lowercase letter between a and z for example [a-z0-9] would result in a match, along with any existing numbers.
 ### Character Classes
 
 ### The OR Operator
@@ -36,4 +36,4 @@ Quantifiers specify (or quantify) the minimum number of a character that must be
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Ian M and my GitHub is https://github.com/IanMosur06
