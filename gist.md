@@ -27,13 +27,11 @@ Using grouping constructs, a regex query can return a number of subsets of data 
 ### Bracket Expressions
 A bracket expression uses regex to simply search everything included in the brackets. Every lowercase letter between a and z for example [a-z0-9] would result in a match, along with any existing numbers.
 ### Character Classes
-
+To distinguish between several sets of characters, there exist character classes.
 ### The OR Operator
-
+The | symbol indicates the OR operator, which allows you to regex between already chosen options.
 ### Flags
-
-### Character Escapes
-
+Flags are modifiers that allow you to affect the engine which you search with. 
 ## Author
 
 My name is Ian M and my GitHub is https://github.com/IanMosur06
