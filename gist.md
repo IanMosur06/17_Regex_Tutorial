@@ -19,9 +19,9 @@ The specifics of one particular regex will be covered in this course. [a-z0-9_-]
 ## Regex Components
 
 ### Anchors
-
+The symbol ^ is an instance of an anchor. This marks the beginning of a string.
 ### Quantifiers
-
+Quantifiers specify (or quantify) the minimum number of a character that must be present in a string in order for it to match the regex.
 ### Grouping Constructs
 
 ### Bracket Expressions
